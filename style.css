@@ -1,0 +1,30 @@
+body{
+    background-color:greenyellow;
+}
+h1{
+    color:black;
+    background-color: antiquewhite;
+    
+}
+#show-sketch{
+    float:right;
+}
+#span-timer{
+    float:right;
+    font-weight: 900;
+    font-size: 25px;
+}
+#span-score{
+    float:left;
+    font-weight:900;
+    font-size: 25px;
+}
+canvas{
+   border:5px solid;
+   color:plum;
+}
+p{
+    padding-top:10px;
+    font-size: 20px;
+    font-weight: 900;
+}
